@@ -1,0 +1,10 @@
+.article-detail {
+    padding: 20px;
+    text-align: center;
+   }
+   .article-detail img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    margin-top: 20px;
+   }
